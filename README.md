@@ -1,4 +1,4 @@
-# vite-react-ts-starter
+# vite-vue-ts-starter
 Vue App Starter with Vite, TypeScript and TailwindCSS
 
 Author: [Joe Gitonga(thekiharani)](https://thekiharani.com).
